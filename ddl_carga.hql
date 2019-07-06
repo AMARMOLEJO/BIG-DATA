@@ -2,5 +2,9 @@ Carga inicial
 autor de la carga
 destino
 costo de flete
---exit
+--trabajamos en carga interna
+--nuevo
 
+
+commit;
+exit
